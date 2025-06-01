@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Shahrukh Hossain Shihab</h1>
 <h3 align="center">A passionate Data Analyst from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/10796279-Office-Work-Animated-illustration" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/7162077/screenshots/3048914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab372&label=Profile%20views&color=0e75b6&style=flat" alt="shihab372" /> </p>
